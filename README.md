@@ -1,2 +1,3 @@
-# captcha-model
-Captcha recognition model | مدل شناسایی کپچا
+# پروژه خواندن CAPTCHA
+
+این مدل در پروژه [گلستون](https://github.com/Pezhm4n/Golestoon) استفاده شده و با آن می‌توانیم کپچا سامانه دانشجویی گلستان را حل کرده و وارد پنل دانشجویی شویم.
